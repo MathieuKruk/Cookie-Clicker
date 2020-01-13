@@ -4,7 +4,6 @@
 
 <ul>
   <li>Cookie Clicker is a mouse-clicking game playable on internet navigators.</li>
-  <li>A private joke led us develop a javascript game around a little poo.</li>
 </ul>
 
 <hr>
@@ -18,6 +17,8 @@
 ## ◾ Motivation
 
 It has been launch the 💠23/09/2019💠 in the case of a school project (<a href="https://github.com/becodeorg" target="_blank">BeCode</a>).
+
+A private joke led us develop a javascript game around a little poo.
 
 Below, you will find our guidelines hosted on the school repo: 
 
