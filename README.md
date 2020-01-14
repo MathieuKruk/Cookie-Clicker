@@ -145,8 +145,14 @@ Logs
 ## ◾ Code Example
 
 ```
-function test() {
-  console.log("This is a test for code input?");
+//function that increment  the score by one
+function incrementOne(){
+		let score = parseInt(myStock.getItem("score"))
+		let valClick = parseInt(myStock.getItem("valClick"));
+		score = score + valClick;
+		
+		target.innerHTML = score;
+		myStock.setItem("score",score);
 }
 ```
 
